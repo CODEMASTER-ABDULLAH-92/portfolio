@@ -1,0 +1,74 @@
+.flex_from{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 1400px;
+}
+.fromm{
+    width: 350px;
+    background: #6a8dbb;
+    position: absolute;
+
+    /* left: 36%; */
+    /* top: 50%;
+    left: 50%;
+transform: translate(50%,50%); */
+/* display: flex; */
+    top: 7rem;
+    border-radius: 10px;
+    padding: 2rem;
+    z-index: 2;
+}
+.fromm h2{
+    font-size: 1.66rem;
+    padding-top: 1.4rem;
+
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    padding: 10px 20px;
+    min-width: 160%;
+    margin-left: -4rem;
+    margin-top: 1rem;
+    border: none;
+    outline: none;
+    font-size: 1.1rem;
+    background: transparent;
+    border-bottom: 2px solid;
+}
+.input{
+    display: flex;
+}
+.img-eye{
+    width: 24px;
+    margin-top: 1rem;
+}
+.loginBtn{
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 1rem;
+}
+.loginSpan{
+    color: red;
+}
+.loginSpan:hover{
+    border-bottom: 1px solid blue;
+}
+.btnLoginFlex{
+    display: flex;
+    justify-content: center;
+}
+.crossImg22{
+    margin-left: 15rem;
+    margin-bottom: -2rem;
+}

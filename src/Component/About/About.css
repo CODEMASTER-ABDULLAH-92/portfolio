@@ -1,0 +1,43 @@
+.mm{
+    background: #3D5A80;
+    min-height: 610px;
+    min-width: 1400px;
+}
+.main1{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    align-items:start;
+    padding-top: 4rem;
+}
+.left-about{
+    max-width: 500px;
+    margin-top: 8rem;
+}
+.right2{
+    position: relative;
+    margin-top: 3rem;
+}
+.man-img{
+    height: 500px;
+    position: absolute;
+    right: -7rem;
+}
+.oval-img{
+    position: absolute;
+top: -2rem;
+right: -6rem;
+}
+.web-heading{
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: white;
+}
+.less{
+    color: tomato;
+}
+.about_para{
+    font-size: 1.1rem;
+    margin-top: 0.66rem;
+    color: white;
+}

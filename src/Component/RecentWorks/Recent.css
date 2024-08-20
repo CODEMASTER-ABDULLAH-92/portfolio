@@ -1,0 +1,47 @@
+
+.worksaa{
+    background-color: #293241;
+    padding: 2rem;
+    min-width: 1400px;
+}
+.worksHandingaa{
+    border-bottom: 3px solid tomato;
+    width: 160px;
+    margin-left: 2rem;
+    margin-top: 0.666rem;
+}
+.worksHanding{
+    font-size: 1.777rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 500;
+    /* width: 120px; */
+padding-top: 1rem;
+margin-left: 2rem;
+}
+.imageWorking{
+    min-width: 1200px;
+    padding-left: 10rem;
+    margin: auto;
+    margin-top: 1.773rem;
+    background-color: #293241;
+}
+.workingIMg{
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+.workingBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.workingBtn button{
+    padding: 12px 30px;
+    background: transparent;
+    border-radius: 7px;
+    border: 1px solid tomato;
+    color: tomato;
+    font-size: 1.222rem;
+    font-weight: 600;
+    margin-top: 1rem;
+}

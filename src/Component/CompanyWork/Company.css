@@ -1,0 +1,31 @@
+.company{
+    min-width: 1400px;
+    background: #2c3138;
+    padding: 2rem;
+}
+.compantHeading{
+    font-size: 1.5rem;
+    font-weight: 400px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+.compantHeading2{
+    width: 140px;
+    border-bottom: 3px solid tomato;
+}
+.imges{
+    margin-left: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.444rem;
+    gap: 5.888rem;
+}
+.headingFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: inherit;
+    margin-top: 0.777rem;
+}

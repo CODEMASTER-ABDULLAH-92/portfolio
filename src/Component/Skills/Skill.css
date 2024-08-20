@@ -1,0 +1,69 @@
+.skills{
+    min-width: 1400px;
+    background: #293241;
+    padding: 2rem;
+    height: 550px;
+}
+.innerSkill{
+    min-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    align-items: start;
+    gap: -3rem;
+}
+.left-Skill{
+    min-width: 500px;
+    margin-left: 3rem;
+    position: relative;
+}
+
+.html-img1{
+position: absolute;
+left: 4rem;
+top: 5rem;
+}
+.html-img2{
+    position: absolute;
+    left: 22rem;
+    top: 21rem;
+}
+
+.css-img{
+    position: absolute;
+    left: 22rem;
+top: 8rem;
+}
+.veu-img{
+    position: absolute;
+    left: 4rem;
+    top: 20rem;
+}
+.react-img{
+    position: absolute;
+    top:12.66rem;
+    left: 12rem;
+
+}
+.right-Skill{
+    min-width: 500px;
+}
+.about_heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: white;
+    text-align: start;
+    margin-top: 5rem;
+    width: 400px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid tomato;
+} 
+.skillsPara{
+    width: 500px;
+    color: white;
+    font-size: 1.1rem;
+    padding-top: 0.777rem;
+    line-height: 32px;
+}

@@ -1,0 +1,21 @@
+.footerSection{
+    min-width: 1400px;
+    background: #293241;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding: 1.666rem;
+}
+.nameFooter h2{
+    font-size: 1.333rem;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contactFooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: row;
+}

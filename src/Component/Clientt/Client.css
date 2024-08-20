@@ -1,0 +1,62 @@
+.client{
+    min-width: 1400px;
+    background: #2F3746;
+    padding: 2rem;
+}
+.clientHeading{
+    font-size: 1.555rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+.lineDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divaa{
+    padding-top: 0.777rem;
+    width: 120px;
+    border-bottom: 3px solid tomato;
+}
+.cardClient{
+    max-width: 450px;
+    min-height: 180px;
+    /* border: 1px solid white; */
+    color: white;
+    background: rgba(0, 0, 0, 0.45);
+    margin-top: 3.44rem; 
+    border-radius: 7px;
+}
+.netimg{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.netpara1{
+    float: right;
+    margin-right: 18rem;
+    margin-top: 1.22rem;
+}
+.netpara2{
+    float: right;
+    margin-right: 14.5rem;
+    margin-top: -1.222rem;
+}
+.netpara3{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.cardClientMain{
+    display: flex;
+    min-width: 1200px;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+}
+.treeDots{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}

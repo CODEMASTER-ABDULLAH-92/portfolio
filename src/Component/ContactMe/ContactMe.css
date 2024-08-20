@@ -1,0 +1,77 @@
+.Contactheading{
+    color: white;
+    font-size: 1.4rem;
+    font-weight: 500;
+    background-color: #3D5A80;
+margin-left: 11rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ContactSection{
+    background: #3D5A80;
+    min-width: 1400px;
+    padding: 2rem;
+}
+.divaaaa{
+    margin-top: 1rem;
+    border-bottom: 3px solid tomato;
+    width: 222px;
+}
+.diva{
+    background: #3D5A80;
+    margin-left: 11rem;
+}
+.email{
+    min-width: 500px;
+    height: 50px;
+    margin-left: 1rem;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    font-size: 1.1rem;
+    background: #26384F;
+    color: white;
+}
+.nameInput{
+    min-width: 500px;
+    height: 50px;
+    margin-left: 1rem;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    font-size: 1.1rem;
+    background: #26384F;
+    color: white;
+}
+.nameSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 0.777rem;
+}
+.tetarea{
+    min-width: 1050px;
+    margin-left: 11rem;
+    margin-top: 2rem;
+    resize: none;
+    min-height: 150px;
+    padding: 1rem;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    background: #26384F;
+    outline: none;
+    border: none;
+    color: white;
+}
+.sendBtn button{
+    margin-left: 11rem;
+    margin-top: 1rem;
+    padding: 10px 35px;
+    background: tomato;
+    color: white;
+    font-size: 1.2rem;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    /* width: 40px; */
+}
